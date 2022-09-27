@@ -1,4 +1,4 @@
-# Jumping feet first into Tailwindcss
+# Blazor Web Assembly Basic tempalte with TailwindCss
 
 In this project, I am creating a new Blazor Web Assembly default project template utilizing TailwindCss.  I will bw able to use this template when creating new web assembly projects moving forward.  
 
